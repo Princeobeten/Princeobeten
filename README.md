@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Prince Philip Obeten and I'm a Junior Flutter/Mobile Dev.  from Nigeria</h2>
 
-![Gradient Background](https://github.com/Princeobeten/Princeobeten/main/gradient.png)
-
 ###
 
 <div align="center">
