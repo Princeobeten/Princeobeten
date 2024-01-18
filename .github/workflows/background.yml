@@ -1,0 +1,23 @@
+name: Generate Gradient Background
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-background:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate Gradient Image
+      run: echo "<your shell script or command to generate the image>" > gradient.png
+
+    - name: Upload Gradient Image
+      uses: actions/upload-artifact@v2
+      with:
+        name: gradient
+        path: gradient.png
