@@ -87,16 +87,16 @@
 
 ## <h2 align="center">Professional Highlights:</h2>
 <ul align="center">
-  <li >🌟 2 years hands-on experience in mobile development with Android Studio and Flutter.</li>
-  <li>🏆 Completed the Dart Programming Course With Flutter at aptlearn.</li>
-  <li>🌐 In-depth knowledge of Java Swing GUI design, contributing to versatile user interfaces.</li>
-  <li>💬 Intermediate-level skills in crafting interactive bots for Telegram and WhatsApp.</li>
-  <li>🚀 Expertise in game development using Pygame framework and Scratch, blending creativity with technicality.</li>
-  <li>📈 Proficient in data analysis using Microsoft Excel and Power BI, emphasizing data-driven insights.</li>
-  <li>💻 Intermediate proficiency in front-end web development (HTML, CSS, JavaScript, PHP).</li>
-  <li>🎨 Seasoned graphic designer, combining artistic flair with technical skills.</li>
-  <li>⚡ Known for prompt engineering and swift problem-solving.</li>
-  <li>🌟 Actively engaged in educational leadership, leading instructional sessions and contributing to STEM projects.</li>
+  🌟 2 years hands-on experience in mobile development with Android Studio and Flutter.🌟 <br>
+  🏆 Completed the Dart Programming Course With Flutter at aptlearn.🏆 <br>
+  🌐 In-depth knowledge of Java Swing GUI design, contributing to versatile user interfaces.🌐 <br>
+  💬 Intermediate-level skills in crafting interactive bots for Telegram and WhatsApp.💬 <br>
+  🚀 Expertise in game development using Pygame framework and Scratch, blending creativity with technicality.🚀 <br>
+  📈 Proficient in data analysis using Microsoft Excel and Power BI, emphasizing data-driven insights.📈 <br>
+  💻 Intermediate proficiency in front-end web development (HTML, CSS, JavaScript, PHP).💻 <br>
+  🎨 Seasoned graphic designer, combining artistic flair with technical skills.🎨 <br>
+  ⚡ Known for prompt engineering and swift problem-solving.⚡ <br>
+  🌟 Actively engaged in educational leadership, leading instructional sessions and contributing to STEM projects.🌟 <br>
 </ul>
 
 
