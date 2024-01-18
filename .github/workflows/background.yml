@@ -13,8 +13,16 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: pip install Pillow
+
     - name: Generate Gradient Image
-      run: echo "<your shell script or command to generate the image>" > gradient.png
+      run: python generate_gradient.py
 
     - name: Upload Gradient Image
       uses: actions/upload-artifact@v2
