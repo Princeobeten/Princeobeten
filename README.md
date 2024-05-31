@@ -131,7 +131,7 @@
 
 ## <h1 align="center">Let's Connect! 🌐</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/princeobeten/" target="_blank">
+  <a href="https://www.linkedin.com/in/princetprdc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/princeobeten1" target="_blank">
