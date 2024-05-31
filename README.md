@@ -27,13 +27,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma.vg" height="30" alt="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva.svg" height="30" alt="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
 ## <h2 align="center">Technical Skills:</h2>
@@ -88,7 +92,14 @@
   <tr>
     <td>🎨 Graphic Design:</td>
     <td>
+      <img src="https://img.icons8.com/color/48/000000/canva.png" height="20" alt="Canva" /> Canva
       <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" height="20" alt="Photoshop" /> Photoshop
+    </td>
+  </tr>
+  <tr>
+    <td>📱💻🎨 UI UX Design:</td>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/figma.png" height="20" alt="Figma" /> Figma
     </td>
   </tr>
 </table>
