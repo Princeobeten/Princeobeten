@@ -12,7 +12,7 @@
   <h2>Programming Languages:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" height="30" alt="Pascal" />
+  <img src="https://img.icons8.com/?size=100&id=JAIA7odpg0ZZ&format=png&color=000000" height="30" alt="Pascal" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
