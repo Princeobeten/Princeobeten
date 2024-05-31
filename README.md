@@ -82,9 +82,9 @@
       <img src="https://img.icons8.com/color/48/000000/html-5.png" height="20" alt="HTML" /> HTML,
       <img src="https://img.icons8.com/color/48/000000/css3.png" height="20" alt="CSS" /> CSS,
       <img src="https://img.icons8.com/color/48/000000/javascript.png" height="20" alt="JavaScript" /> JavaScript,
-      <img src="https://img.icons8.com/color/48/000000/php.png" height="20" alt="PHP" /> PHP
       <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="20" alt="Next Js" /> TypeScript
       <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="20" alt="Next Js" /> Next Js
+      <img src="https://img.icons8.com/color/48/000000/php.png" height="20" alt="PHP" /> PHP
     </td>
   </tr>
   <tr>
