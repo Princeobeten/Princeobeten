@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
 </div>
 
 ## <h2 align="center">Technical Skills:</h2>
@@ -74,6 +76,7 @@
       <img src="https://img.icons8.com/color/48/000000/css3.png" height="20" alt="CSS" /> CSS,
       <img src="https://img.icons8.com/color/48/000000/javascript.png" height="20" alt="JavaScript" /> JavaScript,
       <img src="https://img.icons8.com/color/48/000000/php.png" height="20" alt="PHP" /> PHP
+      <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="20" alt="Next Js" /> Next Js
     </td>
   </tr>
   <tr>
