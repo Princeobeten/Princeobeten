@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Prince Philip Obeten</h1>
-<h3 align="center">Junior Flutter/Mobile Developer from Nigeria 🚀</h3>
+<h3 align="center">Junior Web(Next js)/Mobile(Flutter) Developer from Nigeria 🚀</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princeobeten&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
